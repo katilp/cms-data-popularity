@@ -1,7 +1,7 @@
 
 ### Comparing a set of datasets with the dataset popularity listing
 
-This is an attempt to use the dataset popularity listing to to select the most relevant samples among a list of MC samples proposed as legacy.
+This is an attempt to use the dataset popularity listing to select the most relevant samples among a list of MC samples proposed as legacy.
 
 The popularity listing can be exported from https://cmsweb.cern.ch/popdb/popularity/dataSetTable
 
