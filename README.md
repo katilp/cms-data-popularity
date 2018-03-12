@@ -1,5 +1,5 @@
 
-###Comparing a set of datasets with the dataset popularity listing
+### Comparing a set of datasets with the dataset popularity listing
 
 This is an attempt to use the dataset popularity listing to to select the most relevant samples among a list of MC samples proposed as legacy.
 
@@ -11,3 +11,5 @@ This code reads in the popularity listing and writes out an ordered list for the
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/katilp/cms-data-popularity/master)
+
+(Binder does not start...)
