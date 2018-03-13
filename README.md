@@ -12,4 +12,4 @@ This code reads in the popularity listing and writes out an ordered list for the
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/katilp/cms-data-popularity/master)
 
-(Binder does not start...)
+(Binder does not always start...)
